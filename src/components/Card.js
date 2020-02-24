@@ -14,6 +14,7 @@ const useStyles = makeStyles({
       minWidth: "20%",
       margin: "2em 2em",
     },
+    
   });
 
 const ProjectCard = props => {
@@ -40,10 +41,7 @@ const ProjectCard = props => {
             </CardActionArea>
             <CardActions>
                 <Button size="small" color="primary">
-                Share
-                </Button>
-                <Button size="small" color="primary">
-                Learn More
+                    Open
                 </Button>
             </CardActions>
         </Card>

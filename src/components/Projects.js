@@ -6,7 +6,7 @@ const useStyles = makeStyles({
     root: {
         flexWrap: "wrap",
         display: "flex",
-        backgroundColor: "black",
+        backgroundColor: "#ddd",
     },
   });
 
